@@ -10,5 +10,4 @@ function aggiungi_testo() {
 }
 add_action( 'woocommerce_single_product_summary', 'aggiungi_testo', 5 );
 
-
 ?>
